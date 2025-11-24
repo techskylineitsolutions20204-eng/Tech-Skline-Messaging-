@@ -1,0 +1,7 @@
+{
+  "name": "Tech Skyline",
+  "description": "Tech Skyline Free Calling and Texting App - The ultimate communication platform for international students with built-in AI assistance, anti-blocking technology, and developer tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
